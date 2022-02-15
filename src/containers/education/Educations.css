@@ -1,0 +1,36 @@
+.educations-header {
+  font-size: 40px;
+  line-height: 1.1;
+  font-family: "Google Sans Regular";
+  text-align: center;
+}
+
+.educations-body-div {
+  /*display: flex!important;*/
+  justify-content: space-between!important;
+  flex-wrap: wrap!important;
+}
+
+.main {
+  /*display: inline-block;*/
+  width: 90%;
+  padding: 20px 10px;
+  margin: 0px auto;
+  margin-top: 4rem;
+}
+
+@media (max-width: 1380px) {
+  .educations-header {
+    font-size: 35px;
+  }
+}
+
+@media (max-width: 768px) {
+  .educations-header {
+    font-size: 30px;
+  }
+
+  .educations-body-div {
+    flex-direction: column;
+  }
+}
