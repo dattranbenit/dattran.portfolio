@@ -24,9 +24,9 @@ const greeting = {
   nickname: "Story of mine",
   subTitle: "I am a fullstack-web developer having experience with MERN stack and other web technologies.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+    "",
+  portfolio_repository: "",
+  githubProfile: "",
 };
 
 const socialMediaLinks = [
