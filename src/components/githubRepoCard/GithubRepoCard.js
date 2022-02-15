@@ -49,7 +49,7 @@ export default function GithubRepoCard({ repo, theme }) {
 
 
           <div className="card-game" key={repo.id}>
-            <a href={`${repo.url}`} style={{textDecoration: "none"}}>
+            <a href={`${repo.url}`} target="_blank" style={{textDecoration: "none"}}>
               <Card className="element-card-question">
                 <Grid container className="card-question-practice">
                   <Grid item xs={12} className="text-uppercase text-dark mb-0">
