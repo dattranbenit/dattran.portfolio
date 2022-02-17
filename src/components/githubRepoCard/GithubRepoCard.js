@@ -71,7 +71,7 @@ export default function GithubRepoCard({ repo, theme }) {
                         {repo.name === "Agribank" && <img src={require("../../assests/images/agri.png")} alt="" width={50}/>}
                         {repo.name === "RMIT" && <img src={require("../../assests/images/RMIT-emblem.jpeg")} alt="" width={80}/>}
                         {repo.name === "SSI" && <img src={require("../../assests/images/ssi.png")} alt="" width={50}/>}
-                        {repo.name === "Informa markets Electronic" && <img src={require("../../assests/images/info.png")} alt="" width={80}/>}
+                        {repo.name === "Informa markets Electric" && <img src={require("../../assests/images/info.png")} alt="" width={80}/>}
                         {/*<FiberManualRecordIcon className="dot-small" />*/}
                         {/*<FiberManualRecordIcon className="dot-small" />*/}
                       </div>
