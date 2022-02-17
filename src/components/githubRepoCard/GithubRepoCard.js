@@ -68,6 +68,10 @@ export default function GithubRepoCard({ repo, theme }) {
                         {repo.name === "PTE Magic" && <img src={require("../../assests/images/PTE-MAGIC-Logo-Favicon-site-icon-3.png")} alt="" width={50}/>}
                         {repo.name === "Nauvus" && <img src={require("../../assests/images/Screen Shot 2022-02-14 at 22.11.20.png")} alt="" width={50}/>}
                         {repo.name === "react-nextjs-record" && <img src={require("../../assests/images/wnhbg07hmt77b5x94shs.jpeg")} alt="" width={80}/>}
+                        {repo.name === "Agribank" && <img src={require("../../assests/images/agri.png")} alt="" width={50}/>}
+                        {repo.name === "RMIT" && <img src={require("../../assests/images/RMIT-emblem.jpeg")} alt="" width={80}/>}
+                        {repo.name === "SSI" && <img src={require("../../assests/images/ssi.png")} alt="" width={50}/>}
+                        {repo.name === "Informa markets Electronic" && <img src={require("../../assests/images/info.png")} alt="" width={80}/>}
                         {/*<FiberManualRecordIcon className="dot-small" />*/}
                         {/*<FiberManualRecordIcon className="dot-small" />*/}
                       </div>
