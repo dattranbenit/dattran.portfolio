@@ -399,7 +399,7 @@ const experience = {
           company: "Jmaster",
           company_url: "https://trungtamjava.com/",
           logo_path: "j.png",
-          duration: "October 2020 - August 2021",
+          duration: "October 2020 - PRESENT",
           location: "",
           description:
             "I worked with IT education websites, design UX and code UI React, Gasby, Nextjs. I also designed learning courses and being mentor for many college students",
