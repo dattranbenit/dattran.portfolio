@@ -388,14 +388,14 @@ const experience = {
           company: "Benit",
           company_url: "https://www.crunchbase.com/organization/benit",
           logo_path: "pciwqwfxrb2hrjk0zmwj.png",
-          duration: "June 2020 - PRESENT",
+          duration: "Mar 2020 - PRESENT",
           location: "",
           description:
             "I am working on MERN-stack web application, SpringBoot and DevOps. The projects involve SEO ranking with business logic, AI scoring education test and Iot system. I am currently working on PTE Magic Platform. Our goal is to develop English practice platform online with accurate AI scoring system. Another project is Nauvus which is an Iot system to support traffic transportation",
           color: "black",
         },
         {
-          title: "Frontend developer & Mentor",
+          title: "Teacher & Mentor",
           company: "Jmaster",
           company_url: "https://trungtamjava.com/",
           logo_path: "j.png",
@@ -404,6 +404,17 @@ const experience = {
           description:
             "I worked with IT education websites, design UX and code UI React, Gasby, Nextjs. I also designed learning courses and being mentor for many college students",
           color: "#00ccff",
+        },
+        {
+          title: "Frontend Developer",
+          company: "3Conn",
+          company_url: "https://3conn.net/",
+          logo_path: "Screen Shot 2022-02-18 at 08.54.52.png",
+          duration: "October 2020 - PRESENT",
+          location: "",
+          description:
+            "I am working on commercial projects, building website for some of the Vietnamese biggest companies: Agribank, SSI, RMIT University, Imforma markets Electric",
+          color: "black",
         },
         {
           title: "Co-founder & Technical leader",
