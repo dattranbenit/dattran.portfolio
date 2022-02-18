@@ -55,7 +55,7 @@
       "name":"Agribank",
       "createdAt":"",
       "url":"https://www.agribank.com.vn/",
-      "description":"This is a VietNamese Banking website, requiring a lot business logic and high level of security",
+      "description":"This is a VietNamese Banking website, requiring a lot business logic and high level of security, using backend of java spring boot",
       "isFork":false,
       "languages":[
         {
@@ -83,7 +83,7 @@
       "name":"SSI",
       "createdAt":"",
       "url":"https://www.ssi.com.vn/",
-      "description":"SSI is a securities company. This website requiring optimization of admin system and updating data of stock by crow data on Internet and other website often",
+      "description":"SSI is a securities company. This website requiring optimization of admin system and updating data of stock by crow data on Internet and other website often. Backend using PHP Laravel framework",
       "isFork":false,
       "languages":[
         {

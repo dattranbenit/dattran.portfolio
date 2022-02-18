@@ -406,7 +406,7 @@ const experience = {
           color: "#00ccff",
         },
         {
-          title: "Frontend Developer",
+          title: "Full-stack Developer",
           company: "3Conn",
           company_url: "https://3conn.net/",
           logo_path: "Screen Shot 2022-02-18 at 08.54.52.png",
