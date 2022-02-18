@@ -395,7 +395,7 @@ const experience = {
           color: "black",
         },
         {
-          title: "Teacher & Mentor",
+          title: "Mentor",
           company: "Jmaster",
           company_url: "https://trungtamjava.com/",
           logo_path: "j.png",
