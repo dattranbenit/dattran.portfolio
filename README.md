@@ -1,5 +1,5 @@
 Personal Demo:
-  Link: https://dattran.vercel.app/
+  - Link: https://dattran.vercel.app/
+  
 Frame: 
-  Master Portfolio
-  Link: https://github.com/ashutosh1919/masterPortfolio
+  - Master Portfolio: https://github.com/ashutosh1919/masterPortfolio
