@@ -22,9 +22,9 @@ const greeting = {
   title: "Khanh Dat",
   logo_name: "KhanhDat",
   nickname: "Story of mine",
-  subTitle: "I am a fullstack-web developer having experience with MERN stack and other web technologies.",
-  resumeLink:
-    "",
+  subTitle:
+    "I am a fullstack-web developer having experience with MERN stack and other web technologies.",
+  resumeLink: "",
   portfolio_repository: "",
   githubProfile: "",
 };
@@ -276,7 +276,7 @@ const degrees = {
       subtitle: "Specializing in Information Technology",
       logo_path: "iiitk_logo.png",
       alt_name: "Amsterdam",
-      duration: "2019 - Present",
+      duration: "",
       descriptions: [
         "⚡ I have studied advanced Math and Algorithm",
         "⚡ Apart from this, I have done courses on Software Development, System design, DevOps.",
@@ -465,11 +465,10 @@ const contactPageData = {
   addressSection: {
     title: "Find me at the office",
     subtitle:
-      "Number 20, alley 1\n" +
-      "Tran Quoc Hoan street,\n" +
-      "Ha Noi, Viet Nam",
+      "Number 20, alley 1\n" + "Tran Quoc Hoan street,\n" + "Ha Noi, Viet Nam",
     avatar_image_path: "animation_640_kzmoprb2.gif",
-    location_map_link: "https://www.google.com/maps/search/Number+20,+alley+1+Tran+Quoc+Hoan+street,+Ha+Noi,+Viet+Nam/@21.0414769,105.7879954,17z/data=!3m1!4b1",
+    location_map_link:
+      "https://www.google.com/maps/search/Number+20,+alley+1+Tran+Quoc+Hoan+street,+Ha+Noi,+Viet+Nam/@21.0414769,105.7879954,17z/data=!3m1!4b1",
   },
   phoneSection: {
     title: "Phone Number",
