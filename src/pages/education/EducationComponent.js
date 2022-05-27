@@ -19,12 +19,12 @@ class Education extends Component {
         <div className="basic-education">
           <Fade bottom duration={2000} distance="40px">
             <div className="heading-div">
-              <div className="heading-img-div" >
+              <div className="heading-img-div">
                 <img
-									src={require("../../assests/images/animation_640_kzmr5vr6.gif")}
-									alt=""
-                  width={500}
-								/>
+                  src={require("../../assests/images/animation_640_kzmr5vr6.gif")}
+                  alt=""
+                  width={"73%"}
+                />
                 {/*<EducationImg theme={theme} />*/}
               </div>
               <div className="heading-text-div">

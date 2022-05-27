@@ -24,12 +24,19 @@ class Contact extends Component {
         <div className="basic-contact">
           <Fade bottom duration={1000} distance="40px">
             <div className="contact-heading-div">
-              <div className="contact-heading-img-div" style={{display: "flex", justifyContent: "center", width: "600px"}}>
+              <div
+                className="contact-heading-img-div"
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  width: "100%",
+                }}
+              >
                 <img
                   src={require(`../../assests/images/${ContactData["profile_image_path"]}`)}
                   alt=""
-                  width={370}
-                  style={{borderRadius: "50%"}}
+                  width={"60%"}
+                  style={{ borderRadius: "50%" }}
                 />
               </div>
               <div className="contact-heading-text-div">
@@ -57,8 +64,6 @@ class Contact extends Component {
               </div>
             </div>
           </Fade>
-
-
 
           <Fade bottom duration={1000} distance="40px">
             <div className="address-heading-div">
